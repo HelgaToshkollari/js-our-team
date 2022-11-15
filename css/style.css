@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(57, 57, 67);
+}
+
+
+.container-listmembers{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text-clr{
+    color:  #d5cfe1ff;
+}
+.list-members {
+    background-color:rgb(81, 81, 98);;
+    color:  #d5cfe1ff;
+    width: calc(100% / 3 - 30px);
+    margin: 15px;
+}
